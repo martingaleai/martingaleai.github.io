@@ -12,6 +12,6 @@ One of the key advantages of using AI for horse racing predictions is that it ca
 
 Of course, no prediction is ever 100% accurate, and there are always unexpected factors that can influence the outcome of a race. However, by using AI to make predictions, we can increase the accuracy of our predictions and improve our chances of picking a winner.
 
-At [name of your site], we are committed to providing our users with the most accurate predictions possible. We believe that by harnessing the power of artificial intelligence, we can help horse racing fans to make more informed bets and enjoy the thrill of the race with greater confidence.
+At Martingale AI, we are committed to providing our users with the most accurate predictions possible. We believe that by harnessing the power of artificial intelligence, we can help horse racing fans to make more informed bets and enjoy the thrill of the race with greater confidence.
 
 If you're interested in using our AI-powered horse racing predictions, simply visit our site and sign up for a free trial. We're confident that you'll be impressed with the accuracy of our predictions, and we look forward to helping you pick more winners in the future!
